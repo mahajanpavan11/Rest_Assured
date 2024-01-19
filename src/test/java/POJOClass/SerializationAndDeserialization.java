@@ -17,8 +17,8 @@ public class SerializationAndDeserialization {
 	public void CreateJSONObjectFromEmployeeClassObject() throws JsonProcessingException
 	{
 		Worker emp1 = new Worker();
-		emp1.setFirstName("Suresh");
-		emp1.setLastname("Mehra");
+		emp1.setFirstName("pavan");
+		emp1.setLastname("mahajan");
 		emp1.setGender("Male");
 		emp1.setAge(35);
 		emp1.setSalary(10000.00);
