@@ -1,4 +1,4 @@
-package Session09;
+package Bearer_Token;
 
 import org.json.simple.JSONObject;
 import org.testng.Assert;

@@ -1,4 +1,4 @@
-package Session13;
+package Querry;
 
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;

@@ -1,4 +1,4 @@
-package Session07;
+package Querry_Param;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

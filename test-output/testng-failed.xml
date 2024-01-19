@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Session04.ValidateResponseHeader">
+      <class name="OwnApi.OwnApiTest">
         <methods>
-          <include name="getSingleUser"/>
+          <include name="setupDefault"/>
+          <include name="DeleteUser"/>
         </methods>
-      </class> <!-- Session04.ValidateResponseHeader -->
+      </class> <!-- OwnApi.OwnApiTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

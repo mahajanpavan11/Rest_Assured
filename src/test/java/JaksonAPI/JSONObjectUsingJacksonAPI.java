@@ -1,4 +1,4 @@
-package Session17;
+package JaksonAPI;
 
 import java.util.Arrays;
 import java.util.Iterator;

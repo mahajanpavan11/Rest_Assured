@@ -1,4 +1,4 @@
-package Session15;
+package JSON_Object_Using_MAP;
 
 import java.util.ArrayList;
 import java.util.HashMap;

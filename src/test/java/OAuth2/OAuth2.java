@@ -1,4 +1,4 @@
-package Session11;
+package OAuth2;
 
 import org.testng.annotations.Test;
 

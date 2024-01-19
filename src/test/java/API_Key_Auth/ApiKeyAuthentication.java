@@ -1,4 +1,4 @@
-package Session10;
+package API_Key_Auth;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

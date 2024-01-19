@@ -1,4 +1,4 @@
-package Session05;
+package Status_Code;
 
 import org.testng.Assert;
 

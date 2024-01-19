@@ -1,4 +1,4 @@
-package Session12;
+package Serialisation;
 
 public class JSONPostRequestResponse {
 

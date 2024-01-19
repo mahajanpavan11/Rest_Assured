@@ -1,4 +1,4 @@
-package Session12;
+package Serialisation;
 
 import org.json.simple.JSONObject;
 import org.testng.Assert;

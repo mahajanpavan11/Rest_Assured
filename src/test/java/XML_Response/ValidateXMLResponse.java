@@ -1,4 +1,4 @@
-package Session14;
+package XML_Response;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

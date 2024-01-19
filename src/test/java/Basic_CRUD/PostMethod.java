@@ -1,4 +1,4 @@
-package Session03;
+package Basic_CRUD;
 
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;

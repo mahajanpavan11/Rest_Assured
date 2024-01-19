@@ -1,4 +1,4 @@
-package Session08;
+package Basic_Auth;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
