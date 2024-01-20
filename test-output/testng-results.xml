@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-19T14:18:02 IST" name="Default suite" finished-at="2024-01-19T14:18:05 IST" duration-ms="2676">
+  <suite started-at="2024-01-20T17:02:40 IST" name="Default suite" finished-at="2024-01-20T17:02:44 IST" duration-ms="3154">
     <groups>
     </groups>
-    <test started-at="2024-01-19T14:18:02 IST" name="Default test" finished-at="2024-01-19T14:18:05 IST" duration-ms="2676">
-      <class name="POJOClass.SerializationAndDeserialization">
-        <test-method signature="CreateJSONObjectFromEmployeeClassObject()[pri:0, instance:POJOClass.SerializationAndDeserialization@614ca7df]" started-at="2024-01-19T14:18:02 IST" name="CreateJSONObjectFromEmployeeClassObject" finished-at="2024-01-19T14:18:05 IST" duration-ms="2617" status="PASS">
+    <test started-at="2024-01-20T17:02:40 IST" name="Default test" finished-at="2024-01-20T17:02:44 IST" duration-ms="3154">
+      <class name="JsonArrayToPojo.JsonToPojo">
+        <test-method signature="jsonArray()[pri:0, instance:JsonArrayToPojo.JsonToPojo@614ca7df]" started-at="2024-01-20T17:02:40 IST" name="jsonArray" finished-at="2024-01-20T17:02:44 IST" duration-ms="3099" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreateJSONObjectFromEmployeeClassObject -->
-      </class> <!-- POJOClass.SerializationAndDeserialization -->
+        </test-method> <!-- jsonArray -->
+      </class> <!-- JsonArrayToPojo.JsonToPojo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
