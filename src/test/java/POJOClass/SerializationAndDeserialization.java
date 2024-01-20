@@ -18,7 +18,11 @@ public class SerializationAndDeserialization {
 	{
 		Worker emp1 = new Worker();
 		emp1.setFirstName("pavan");
+<<<<<<< HEAD
 		emp1.setLastname("Mahajan");
+=======
+		emp1.setLastname("mahajan");
+>>>>>>> b1a7905d55d5e5c69889f3e65a92188e4960bf34
 		emp1.setGender("Male");
 		emp1.setAge(35);
 		emp1.setSalary(10000.00);
