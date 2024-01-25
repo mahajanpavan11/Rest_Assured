@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-20T17:02:40 IST" name="Default suite" finished-at="2024-01-20T17:02:44 IST" duration-ms="3154">
+  <suite started-at="2024-01-23T23:11:00 IST" name="Default suite" finished-at="2024-01-23T23:11:04 IST" duration-ms="4925">
     <groups>
     </groups>
-    <test started-at="2024-01-20T17:02:40 IST" name="Default test" finished-at="2024-01-20T17:02:44 IST" duration-ms="3154">
-      <class name="JsonArrayToPojo.JsonToPojo">
-        <test-method signature="jsonArray()[pri:0, instance:JsonArrayToPojo.JsonToPojo@614ca7df]" started-at="2024-01-20T17:02:40 IST" name="jsonArray" finished-at="2024-01-20T17:02:44 IST" duration-ms="3099" status="PASS">
+    <test started-at="2024-01-23T23:11:00 IST" name="Default test" finished-at="2024-01-23T23:11:04 IST" duration-ms="4925">
+      <class name="Basic_Auth.BasicAuthorasation">
+        <test-method signature="DigestAuth()[pri:0, instance:Basic_Auth.BasicAuthorasation@48f278eb]" started-at="2024-01-23T23:11:00 IST" name="DigestAuth" finished-at="2024-01-23T23:11:04 IST" duration-ms="3980" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- jsonArray -->
-      </class> <!-- JsonArrayToPojo.JsonToPojo -->
+        </test-method> <!-- DigestAuth -->
+        <test-method signature="basicAuth()[pri:0, instance:Basic_Auth.BasicAuthorasation@48f278eb]" started-at="2024-01-23T23:11:04 IST" name="basicAuth" finished-at="2024-01-23T23:11:04 IST" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicAuth -->
+      </class> <!-- Basic_Auth.BasicAuthorasation -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
