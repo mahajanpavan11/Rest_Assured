@@ -1,5 +1,6 @@
 package POJOClass;
 
+
 public class Worker {
 
 	/*firstName - String
